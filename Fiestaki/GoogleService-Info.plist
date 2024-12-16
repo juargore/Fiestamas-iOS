@@ -14,10 +14,10 @@
 	<string>541143426473</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>com.universal.fiestamas</string>
 	<key>PROJECT_ID</key>
-	<string>fiestaki-1</string>
+	<string>partyOS</string>
+	<key>CFBundleIdentifier</key>
+	<string>partyOS</string>
 	<key>STORAGE_BUCKET</key>
 	<string>fiestaki-1.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
